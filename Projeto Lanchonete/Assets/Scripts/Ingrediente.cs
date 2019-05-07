@@ -18,8 +18,11 @@ public class Ingrediente : MonoBehaviour
         }
         else
         {
-            Debug.Log("Entrou");
-            filho.GetComponent<Ingrediente>().AdicionarIngrediente(novo);
+            if(filho.GetComponent<Ingrediente>() != null)
+            {
+                Debug.Log("Entrou");
+                filho.GetComponent<Ingrediente>().AdicionarIngrediente(novo);
+            }
         }
 
 

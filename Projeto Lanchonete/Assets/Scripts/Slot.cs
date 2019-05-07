@@ -7,7 +7,7 @@ public class Slot : MonoBehaviour
 
     public Transform PosicaoDoPlayer;
 
-    public GameObject ObjetoNoSlot; //=inicio
+    public GameObject ObjetoNoSlot;
 
 
 }

@@ -91,8 +91,11 @@ public class Player : MonoBehaviour
         if(ItemGrabed!=null && slot.ObjetoNoSlot != null)//Se eu tenho item nao mao e tem item no slot, eu misturo os itens
         {
             Debug.Log("Mix");
-            if (slot.ObjetoNoSlot.GetComponent<Ingrediente>() != null)
+            if (slot.ObjetoNoSlot.GetComponent<Ingrediente>() != null) { 
                 slot.ObjetoNoSlot.GetComponent<Ingrediente>().AdicionarIngrediente(ItemGrabed);
+                slot = null;
+                ItemGrabed = null;
+            }
             else Debug.Log("Não é possivel misturar");
         }
         
