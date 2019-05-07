@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: e9d96b4992df80344b23c7b820e23598
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Agrupar_2
+    100002: Agrupar_3
+    100004: Agrupar_4
+    100006: Componente_2
+    100008: Componente_4
+    100010: //RootNode
+    100012: group_0
+    100014: group_1
+    100016: ID103
+    100018: ID111
+    100020: ID117
+    100022: ID125
+    100024: ID138
+    100026: ID146
+    100028: ID159
+    100030: ID177
+    100032: ID193
+    100034: ID48
+    100036: ID61
+    100038: ID82
+    100040: ID90
+    100042: instance_0
+    100044: instance_1
+    100046: instance_2
+    100048: instance_3
+    100050: instance_4
+    400000: Agrupar_2
+    400002: Agrupar_3
+    400004: Agrupar_4
+    400006: Componente_2
+    400008: Componente_4
+    400010: //RootNode
+    400012: group_0
+    400014: group_1
+    400016: ID103
+    400018: ID111
+    400020: ID117
+    400022: ID125
+    400024: ID138
+    400026: ID146
+    400028: ID159
+    400030: ID177
+    400032: ID193
+    400034: ID48
+    400036: ID61
+    400038: ID82
+    400040: ID90
+    400042: instance_0
+    400044: instance_1
+    400046: instance_2
+    400048: instance_3
+    400050: instance_4
+    2100000: Steve_Glasses_Black
+    2100002: material_2
+    2100004: material_2_0
+    2100006: material_6
+    2100008: material_8
+    2100010: material_7
+    2100012: material_3
+    2100014: material_4
+    2100016: material_1
+    2100018: material_5
+    2300000: Agrupar_2
+    2300002: Agrupar_3
+    2300004: Agrupar_4
+    2300006: Componente_2
+    2300008: Componente_4
+    2300010: group_0
+    2300012: group_1
+    2300014: ID103
+    2300016: ID111
+    2300018: ID117
+    2300020: ID125
+    2300022: ID138
+    2300024: ID146
+    2300026: ID159
+    2300028: ID177
+    2300030: ID193
+    2300032: ID48
+    2300034: ID61
+    2300036: ID82
+    2300038: ID90
+    3300000: Agrupar_2
+    3300002: Agrupar_3
+    3300004: Agrupar_4
+    3300006: Componente_2
+    3300008: Componente_4
+    3300010: group_0
+    3300012: group_1
+    3300014: ID103
+    3300016: ID111
+    3300018: ID117
+    3300020: ID125
+    3300022: ID138
+    3300024: ID146
+    3300026: ID159
+    3300028: ID177
+    3300030: ID193
+    3300032: ID48
+    3300034: ID61
+    3300036: ID82
+    3300038: ID90
+    4300000: group_0
+    4300002: group_1
+    4300004: Componente_2
+    4300006: Componente_4
+    4300008: ID48
+    4300010: ID61
+    4300012: Agrupar_3
+    4300014: ID82
+    4300016: ID90
+    4300018: ID103
+    4300020: ID111
+    4300022: ID117
+    4300024: ID125
+    4300026: ID138
+    4300028: ID146
+    4300030: ID159
+    4300032: Agrupar_4
+    4300034: ID177
+    4300036: Agrupar_2
+    4300038: ID193
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
